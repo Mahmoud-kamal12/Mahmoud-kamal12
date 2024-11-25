@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Mahmoud-kamal12/Mahmoud-kamal12/blob/main/background.jpeg" alt="Backend Developer" width="100%" />
+  <img src="https://github.com/Mahmoud-kamal12/Mahmoud-kamal12/blob/main/background.jpg" alt="Backend Developer" width="100%" height="350" />
 </p>
 <h1 align="center">Hi 👋, I'm Mahmoud Kamal</h1>
 <h3 align="center">A Full Stack PHP Developer With 4 Years of Experience</h3>
