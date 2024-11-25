@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Mahmoud-kamal12/Mahmoud-kamal12/blob/main/background.jpeg" alt="Backend Developer" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Mahmoud Kamal</h1>
 <h3 align="center">A Full Stack PHP Developer With 4 Years of Experience</h3>
 <p>Ability to analyze, solve problems, and handle multiple tasks. Self-motivated and aspire to learn more about various fields of interest good leadership skills (project leader in most of my schoolwork) Cooperative and Good Communicator Open to learning new languages and technologies and self-study Take responsibility and think of task in terms of objectives and time to complete.</p>
