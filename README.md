@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://github.com/Mahmoud-kamal12/Mahmoud-kamal12/blob/main/background.jpg" alt="Backend Developer" width="100%" height="350" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEwJEisqh3XLw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731793393371?e=1738195200&v=beta&t=cEcyfz_ecZhqJ12sWVQR1VRdKNzKxK4AnelhS2thAA0" alt="Backend Developer" width="100%" height="250" />
 </p>
 <h1 align="center">Hi 👋, I'm Mahmoud Kamal</h1>
 <h3 align="center">A Full Stack PHP Developer With 4 Years of Experience</h3>
-<p>Ability to analyze, solve problems, and handle multiple tasks. Self-motivated and aspire to learn more about various fields of interest good leadership skills (project leader in most of my schoolwork) Cooperative and Good Communicator Open to learning new languages and technologies and self-study Take responsibility and think of tasks in terms of objectives and time to complete.</p>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mahmoud-kamal12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud-kamal12&margin-w=5&margin-h=5&column=9&theme=dracula" alt="Trophies" width="100%" height="200"/>
 </p>
 
 ---
 
-### 📫 Contact Me:
-- **Email**: [mahmoudkamal012011@gmail.com](mailto:mahmoudkamal012011@gmail.com)
-- **Phone**: +201027060835
-- **LinkedIn**: [Mahmoud Kamal](https://www.linkedin.com/in/mahmoud-kamal-0237531a1/)
-
----
+<div align="center">
+  <a href="mailto:mahmoudkamal012011@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-kamal-0237531a1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ### 🚀 Skills & Technologies:
 - **Backend**: PHP, Laravel, Symfony, MySQL, Neo4j, RabbitMQ, Redis
@@ -69,11 +69,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-kamal12&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub Stats" width="45%" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-kamal12&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" width="45%" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-kamal12&theme=dracula" alt="GitHub Streak" width="45%" height="200"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud-kamal12&margin-w=5&margin-h=5&column=5&theme=dracula" alt="Trophies" width="45%" height="200"/>
 </p>
 ---
 
