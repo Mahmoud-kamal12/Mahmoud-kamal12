@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Mahmoud Kamal</h1>
 <h3 align="center">A Full Stack PHP Developer With 4 Years of Experience</h3>
-<p>Ability to analyze, solve problems, and handle multiple tasks. Self-motivated and aspire to learn more about various fields of interest good leadership skills (project leader in most of my schoolwork) Cooperative and Good Communicator Open to learning new languages and technologies and self-study Take responsibility and think of task in terms of objectives and time to complete.</p>
+<p>Ability to analyze, solve problems, and handle multiple tasks. Self-motivated and aspire to learn more about various fields of interest good leadership skills (project leader in most of my schoolwork) Cooperative and Good Communicator Open to learning new languages and technologies and self-study Take responsibility and think of tasks in terms of objectives and time to complete.</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mahmoud-kamal12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
@@ -55,7 +55,7 @@
 ### 📚 Featured Projects:
 - **Loomshope**: A multi-vendor e-commerce platform supporting merchants to manage their online stores efficiently. Features include vendor dashboards, product management, and secure transactions.
 - **Examero**: A tourism management program organizing trips, bookings, and generating financial reports.
-- **Hoda Allah Academy**: An educational platform designed to make learning accessible for children and adults worldwide.
+- **Hoda Allah Academy**: An educational platform that makes learning accessible for children and adults worldwide.
 
 ---
 
