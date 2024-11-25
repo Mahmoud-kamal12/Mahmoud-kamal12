@@ -28,27 +28,53 @@
 
 ### 🛠️ Tools & Platforms:
 <p align="left">
-  <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" height="30"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="30" height="30"/> </a>
-  <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="30" height="30"/> </a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>
+</a>
+<a href="https://vuejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="30" height="30"/>
+</a>
+<a href="https://laravel.com/" target="_blank">
+  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="30" height="30"/>
+</a>
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>
+</a>
+<a href="https://neo4j.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4j" width="30" height="30"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
+</a>
+<a href="https://symfony.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="Symfony" width="30" height="30"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="30" height="30"/>
+</a>
+<a href="https://angular.io" target="_blank">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" height="30"/>
+</a>
+  <a href="https://getbootstrap.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30"/>
+</a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/>
+</a>
 </p>
 
 ---
 
 ### 📊 GitHub Statistics:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-kamal12&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-kamal12" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-kamal12&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub Stats" width="45%" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-kamal12&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" width="45%" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-kamal12&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud-kamal12&margin-w=5&margin-h=5&column=5&theme=algolia" alt="Trophies" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-kamal12&theme=dracula" alt="GitHub Streak" width="45%" height="200"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud-kamal12&margin-w=5&margin-h=5&column=5&theme=dracula" alt="Trophies" width="45%" height="200"/>
 </p>
-
 ---
 
 ### 📚 Featured Projects:
