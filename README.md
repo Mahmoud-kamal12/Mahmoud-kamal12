@@ -15,7 +15,6 @@
 - **Email**: [mahmoudkamal012011@gmail.com](mailto:mahmoudkamal012011@gmail.com)
 - **Phone**: +201027060835
 - **LinkedIn**: [Mahmoud Kamal](https://www.linkedin.com/in/mahmoud-kamal-0237531a1/)
-- **GitHub**: [mahmoud-kamal12](https://github.com/mahmoud-kamal12)
 
 ---
 
